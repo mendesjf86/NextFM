@@ -1,0 +1,1080 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+
+}
+
+:root {
+	--web-view-ids: Web_1920__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Web_1920__1_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Background_Class {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Retngulo_15_Class {
+	fill: rgba(241,241,241,1);
+}
+.Retngulo_15 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+}
+.Caminho_1_Class {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Caminho_1 {
+	display: none;
+	overflow: visible;
+	position: absolute;
+	width: 151.481px;
+	height: 228.448px;
+	left: 438.716px;
+	top: 291.028px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Player_Class {
+	position: absolute;
+	width: 1263px;
+	height: 218px;
+	left: 328px;
+	top: 318px;
+	overflow: visible;
+}
+.Retngulo_13_Class {
+	fill: rgba(255,255,255,1);
+}
+.Retngulo_13 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1138px;
+	height: 173px;
+	left: 72px;
+	top: 63px;
+}
+.Retngulo_24_Class {
+	fill: rgba(255,255,255,1);
+}
+.Retngulo_24 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1210px;
+	height: 183px;
+	left: 36px;
+	top: 36px;
+}
+.Retngulo_12_Class {
+	fill: rgba(255,255,255,1);
+}
+.Retngulo_12 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.31));
+	position: absolute;
+	overflow: visible;
+	width: 1280px;
+	height: 193px;
+	left: 1px;
+	top: 0px;
+}
+.Componente_1__1_Class {
+	position: absolute;
+	width: 174.716px;
+	height: 175px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.ESQ---Jason-Derulo-3_Class {
+	position: absolute;
+	width: 174.716px;
+	height: 175px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Retngulo_14_Class {
+	fill: rgba(255,209,56,1);
+}
+.Retngulo_14 {
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	height: 21px;
+	left: 198px;
+	top: 38px;
+}
+.Voc_est_ouvindo_Class {
+	left: 198px;
+	top: 65px;
+	position: absolute;
+	overflow: visible;
+	width: 197px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -1px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(84,83,83,1);
+}
+.Com_o_locutor_Kifel_Jhonson_Class {
+	opacity: 0.66;
+	left: 198px;
+	top: 93px;
+	position: absolute;
+	overflow: visible;
+	width: 188px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(84,83,83,1);
+}
+.Retngulo_18_Class {
+	fill: rgba(252,204,42,1);
+}
+.Retngulo_18 {
+	position: absolute;
+	overflow: visible;
+	width: 40px;
+	height: 40px;
+	left: 930px;
+	top: 59px;
+}
+.Retngulo_23_Class {
+	fill: rgba(252,204,42,1);
+}
+.Retngulo_23 {
+	position: absolute;
+	overflow: visible;
+	width: 40px;
+	height: 40px;
+	left: 990px;
+	top: 59px;
+}
+.Retngulo_22_Class {
+	fill: rgba(252,204,42,1);
+}
+.Retngulo_22 {
+	position: absolute;
+	overflow: visible;
+	width: 40px;
+	height: 40px;
+	left: 876px;
+	top: 59px;
+}
+.Retngulo_20_Class {
+	fill: rgba(252,204,42,1);
+}
+.Retngulo_20 {
+	position: absolute;
+	overflow: visible;
+	width: 40px;
+	height: 40px;
+	left: 1050px;
+	top: 60px;
+}
+.Retngulo_21_Class {
+	fill: rgba(252,204,42,1);
+}
+.Retngulo_21 {
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	height: 40px;
+	left: 1110px;
+	top: 60px;
+}
+.ID1800_Class {
+	left: 1141px;
+	top: 69px;
+	position: absolute;
+	overflow: visible;
+	width: 45px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(84,83,83,1);
+}
+.Pau_no_Gato_Class {
+	left: 399px;
+	top: 65px;
+	position: absolute;
+	overflow: visible;
+	width: 142px;
+	white-space: nowrap;
+	line-height: 31px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(84,83,83,1);
+}
+.email-24px_Class {
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 938px;
+	top: 67px;
+	overflow: visible;
+}
+.Caminho_3_Class {
+	fill: transparent;
+}
+.Caminho_3 {
+	overflow: visible;
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Caminho_4_Class {
+	fill: rgba(84,83,83,1);
+}
+.Caminho_4 {
+	overflow: visible;
+	position: absolute;
+	width: 20px;
+	height: 16px;
+	left: 2px;
+	top: 4px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.favorite_border-24px_Class {
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 998px;
+	top: 67px;
+	overflow: visible;
+}
+.Caminho_5_Class {
+	fill: transparent;
+}
+.Caminho_5 {
+	overflow: visible;
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Caminho_6_Class {
+	fill: rgba(84,83,83,1);
+}
+.Caminho_6 {
+	overflow: visible;
+	position: absolute;
+	width: 20px;
+	height: 18.35px;
+	left: 2px;
+	top: 3px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.volume_up-24px_Class {
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 1058px;
+	top: 68px;
+	overflow: visible;
+}
+.Caminho_7_Class {
+	fill: transparent;
+}
+.Caminho_7 {
+	overflow: visible;
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Caminho_8_Class {
+	fill: rgba(84,83,83,1);
+}
+.Caminho_8 {
+	overflow: visible;
+	position: absolute;
+	width: 18px;
+	height: 17.54px;
+	left: 3px;
+	top: 3.23px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.pause-24px_Class {
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 884px;
+	top: 67px;
+	overflow: visible;
+	transition: all 0.3s ease-out;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___2.html;
+	cursor: pointer;
+}
+.Caminho_9_Class {
+	fill: transparent;
+}
+.Caminho_9 {
+	overflow: visible;
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Caminho_10_Class {
+	fill: rgba(84,83,83,1);
+}
+.Caminho_10 {
+	overflow: visible;
+	position: absolute;
+	width: 12px;
+	height: 14px;
+	left: 6px;
+	top: 5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.AO_VIVO_Class {
+	left: 205px;
+	top: 43px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -7px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+.Notcias_Class {
+	position: absolute;
+	width: 1272px;
+	height: 291px;
+	left: 324px;
+	top: 650px;
+	overflow: hidden;
+}
+.Notcias_bg_Class {
+	position: absolute;
+	width: 285px;
+	height: 273px;
+	left: 9px;
+	top: 6px;
+	overflow: visible;
+}
+.Retngulo_25_Class {
+	fill: rgba(255,255,255,1);
+}
+.Retngulo_25 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 303px;
+	height: 291px;
+	left: 0px;
+	top: 0px;
+}
+.XBL_Free-Play-Days_021821_1920_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 285px;
+	height: 126px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	transition: all 0.3s ease-out;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___3.html;
+	cursor: pointer;
+}
+.Confira_a_anlise_do_Trust_GTX__Class {
+	left: 15px;
+	top: 159px;
+	position: absolute;
+	overflow: visible;
+	width: 256px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(88,88,88,1);
+}
+.Ser_que_vale_o_investimento_Class {
+	left: 15px;
+	top: 177px;
+	position: absolute;
+	overflow: visible;
+	width: 216px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(88,88,88,1);
+}
+.O_novo_Headset_da_Trust_trs_do_Class {
+	opacity: 0.5;
+	left: 16px;
+	top: 197px;
+	position: absolute;
+	overflow: visible;
+	width: 213px;
+	white-space: nowrap;
+	line-height: 15px;
+	margin-top: -0.5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(88,88,88,1);
+}
+.Hoje_s_1820_Class {
+	opacity: 0.44;
+	left: 54px;
+	top: 243px;
+	position: absolute;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(88,88,88,1);
+}
+.Retngulo_29_Class {
+	fill: rgba(255,209,56,1);
+}
+.Retngulo_29 {
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	height: 21px;
+	left: 111px;
+	top: 116px;
+}
+.REVIEW_Class {
+	left: 119px;
+	top: 120px;
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -7px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+.insert_invitation-24px_Class {
+	opacity: 0.71;
+	position: absolute;
+	width: 18.151px;
+	height: 18.151px;
+	left: 31px;
+	top: 240px;
+	overflow: visible;
+}
+.Caminho_13_Class {
+	fill: transparent;
+}
+.Caminho_13 {
+	overflow: visible;
+	position: absolute;
+	width: 18.151px;
+	height: 18.151px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Caminho_14_Class {
+	fill: rgba(84,83,83,1);
+}
+.Caminho_14 {
+	overflow: visible;
+	position: absolute;
+	width: 13.613px;
+	height: 15.126px;
+	left: 2.269px;
+	top: 0.756px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Notcias_bs_Class {
+	position: absolute;
+	width: 285px;
+	height: 273px;
+	left: 332px;
+	top: 6px;
+	overflow: visible;
+}
+.Retngulo_25_bt_Class {
+	fill: rgba(255,255,255,1);
+}
+.Retngulo_25_bt {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 303px;
+	height: 291px;
+	left: 0px;
+	top: 0px;
+}
+.XBL_Free-Play-Days_021821_1920_bu_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 285px;
+	height: 126px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Confira_a_anlise_do_Trust_GTX__bv_Class {
+	left: 15px;
+	top: 159px;
+	position: absolute;
+	overflow: visible;
+	width: 256px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(88,88,88,1);
+}
+.Ser_que_vale_o_investimento_bw_Class {
+	left: 15px;
+	top: 177px;
+	position: absolute;
+	overflow: visible;
+	width: 216px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(88,88,88,1);
+}
+.O_novo_Headset_da_Trust_trs_do_bx_Class {
+	opacity: 0.5;
+	left: 16px;
+	top: 197px;
+	position: absolute;
+	overflow: visible;
+	width: 213px;
+	white-space: nowrap;
+	line-height: 15px;
+	margin-top: -0.5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(88,88,88,1);
+}
+.Hoje_s_1820_by_Class {
+	opacity: 0.44;
+	left: 54px;
+	top: 243px;
+	position: absolute;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(88,88,88,1);
+}
+.Retngulo_29_bz_Class {
+	fill: rgba(255,209,56,1);
+}
+.Retngulo_29_bz {
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	height: 21px;
+	left: 111px;
+	top: 116px;
+}
+.REVIEW_b_Class {
+	left: 119px;
+	top: 120px;
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -7px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+.insert_invitation-24px_b_Class {
+	opacity: 0.71;
+	position: absolute;
+	width: 18.151px;
+	height: 18.151px;
+	left: 31px;
+	top: 240px;
+	overflow: visible;
+}
+.Caminho_13_b_Class {
+	fill: transparent;
+}
+.Caminho_13_b {
+	overflow: visible;
+	position: absolute;
+	width: 18.151px;
+	height: 18.151px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Caminho_14_b_Class {
+	fill: rgba(84,83,83,1);
+}
+.Caminho_14_b {
+	overflow: visible;
+	position: absolute;
+	width: 13.613px;
+	height: 15.126px;
+	left: 2.269px;
+	top: 0.756px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Notcias_b_Class {
+	position: absolute;
+	width: 285px;
+	height: 273px;
+	left: 655px;
+	top: 6px;
+	overflow: visible;
+}
+.Retngulo_25_b_Class {
+	fill: rgba(255,255,255,1);
+}
+.Retngulo_25_b {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 303px;
+	height: 291px;
+	left: 0px;
+	top: 0px;
+}
+.XBL_Free-Play-Days_021821_1920_b_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 285px;
+	height: 126px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Confira_a_anlise_do_Trust_GTX__b_Class {
+	left: 15px;
+	top: 159px;
+	position: absolute;
+	overflow: visible;
+	width: 256px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(88,88,88,1);
+}
+.Ser_que_vale_o_investimento_b_Class {
+	left: 15px;
+	top: 177px;
+	position: absolute;
+	overflow: visible;
+	width: 216px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(88,88,88,1);
+}
+.O_novo_Headset_da_Trust_trs_do_b_Class {
+	opacity: 0.5;
+	left: 16px;
+	top: 197px;
+	position: absolute;
+	overflow: visible;
+	width: 213px;
+	white-space: nowrap;
+	line-height: 15px;
+	margin-top: -0.5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(88,88,88,1);
+}
+.Hoje_s_1820_ca_Class {
+	opacity: 0.44;
+	left: 54px;
+	top: 243px;
+	position: absolute;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(88,88,88,1);
+}
+.Retngulo_29_cb_Class {
+	fill: rgba(255,209,56,1);
+}
+.Retngulo_29_cb {
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	height: 21px;
+	left: 111px;
+	top: 116px;
+}
+.REVIEW_cc_Class {
+	left: 119px;
+	top: 120px;
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -7px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+.insert_invitation-24px_cd_Class {
+	opacity: 0.71;
+	position: absolute;
+	width: 18.151px;
+	height: 18.151px;
+	left: 31px;
+	top: 240px;
+	overflow: visible;
+}
+.Caminho_13_ce_Class {
+	fill: transparent;
+}
+.Caminho_13_ce {
+	overflow: visible;
+	position: absolute;
+	width: 18.151px;
+	height: 18.151px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Caminho_14_cf_Class {
+	fill: rgba(84,83,83,1);
+}
+.Caminho_14_cf {
+	overflow: visible;
+	position: absolute;
+	width: 13.613px;
+	height: 15.126px;
+	left: 2.269px;
+	top: 0.756px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Notcias_cg_Class {
+	position: absolute;
+	width: 285px;
+	height: 273px;
+	left: 978px;
+	top: 6px;
+	overflow: visible;
+}
+.Retngulo_25_ch_Class {
+	fill: rgba(255,255,255,1);
+}
+.Retngulo_25_ch {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 303px;
+	height: 291px;
+	left: 0px;
+	top: 0px;
+}
+.XBL_Free-Play-Days_021821_1920_ci_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 285px;
+	height: 126px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Confira_a_anlise_do_Trust_GTX__cj_Class {
+	left: 15px;
+	top: 159px;
+	position: absolute;
+	overflow: visible;
+	width: 256px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(88,88,88,1);
+}
+.Ser_que_vale_o_investimento_ck_Class {
+	left: 15px;
+	top: 177px;
+	position: absolute;
+	overflow: visible;
+	width: 216px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(88,88,88,1);
+}
+.O_novo_Headset_da_Trust_trs_do_cl_Class {
+	opacity: 0.5;
+	left: 16px;
+	top: 197px;
+	position: absolute;
+	overflow: visible;
+	width: 213px;
+	white-space: nowrap;
+	line-height: 15px;
+	margin-top: -0.5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(88,88,88,1);
+}
+.Hoje_s_1820_cm_Class {
+	opacity: 0.44;
+	left: 54px;
+	top: 243px;
+	position: absolute;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(88,88,88,1);
+}
+.Retngulo_29_cn_Class {
+	fill: rgba(255,209,56,1);
+}
+.Retngulo_29_cn {
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	height: 21px;
+	left: 111px;
+	top: 116px;
+}
+.REVIEW_co_Class {
+	left: 119px;
+	top: 120px;
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -7px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+.insert_invitation-24px_cp_Class {
+	opacity: 0.71;
+	position: absolute;
+	width: 18.151px;
+	height: 18.151px;
+	left: 31px;
+	top: 240px;
+	overflow: visible;
+}
+.Caminho_13_cq_Class {
+	fill: transparent;
+}
+.Caminho_13_cq {
+	overflow: visible;
+	position: absolute;
+	width: 18.151px;
+	height: 18.151px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Caminho_14_cr_Class {
+	fill: rgba(84,83,83,1);
+}
+.Caminho_14_cr {
+	overflow: visible;
+	position: absolute;
+	width: 13.613px;
+	height: 15.126px;
+	left: 2.269px;
+	top: 0.756px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Caminho_15_Class {
+	fill: rgba(255,209,56,1);
+	stroke: rgba(255,209,56,0.502);
+	stroke-width: 20px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Caminho_15 {
+	overflow: visible;
+	position: absolute;
+	width: 1616.456px;
+	height: 1162.796px;
+	left: -484.397px;
+	top: 500.278px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Caminho_16_Class {
+	fill: rgba(255,209,56,1);
+	stroke: rgba(255,209,56,0.502);
+	stroke-width: 20px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Caminho_16 {
+	overflow: visible;
+	position: absolute;
+	width: 1596.458px;
+	height: 1142.694px;
+	transform: matrix(1,0,0,1,669.7732,-943.3562) rotate(194deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
